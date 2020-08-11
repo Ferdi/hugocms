@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: description
+pages:
+- content/forestry.md
